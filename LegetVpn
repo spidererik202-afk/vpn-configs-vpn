@@ -1,0 +1,13 @@
+#profile-title: LegetVpn
+#profile-update-interval: 2
+#support-url: https://t.me/info_Grina
+#announce: Интерент без границ!
+#subscription-userinfo: upload=0; download=0; total=10737418240; expire=0
+
+vless://79e5344f-d50b-444b-9748-30146e66663c@ru.fast-cone.com:443?security=reality&encryption=none&pbk=MtmQRo_fBuvzEa7gFKDrTrJhtn0DcIq-IJNTupxZJSc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=aviasales.ru&sid=9f#%F0%9F%87%B7%F0%9F%87%BA%20YouTube%20%E2%80%A2%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
+vless://79e5344f-d50b-444b-9748-30146e66663c@swe.fast-cone.com:443?security=reality&encryption=none&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=swe.fast-cone.com&sid=44#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+vless://9adeb2b6-373f-40f5-9102-8da6d1c9d141@31.77.159.223:443?security=reality&encryption=none&pbk=PhFd2FDPCDKIbaMIUMzwdnmru5OA3nKY9bF5rQi6J28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=44005997fe906ade#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://79e5344f-d50b-444b-9748-30146e66663c@nl.fast-cone.com:443?security=reality&encryption=none&pbk=JZ-JMdenLtpZb6J991KB0-3T92rACohEpDtqt2M--hs&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.fast-cone.com&sid=17#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://79e5344f-d50b-444b-9748-30146e66663c@msk.fast-cone.com:443?security=reality&encryption=none&pbk=9gjAcFU1qBtbyyXV7h2y6eUd7_kMTI1sCd-bEUSPjWY&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=msk.fast-cone.com&sid=11#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%E2%80%A2%202
+vless://79e5344f-d50b-444b-9748-30146e66663c@us.fast-cone.com:443?security=reality&encryption=none&pbk=5VWnmh1pF5ngL37PNFHma990EJJQ97DdTh8Kj1SdwgQ&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=us.fast-cone.com&sid=f6#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
+vless://79e5344f-d50b-444b-9748-30146e66663c@msk.fast-cone.com:8443?security=reality&encryption=none&pbk=7Rpa3HuPxPVswPmUK3E2738kUSqC8k95Gs7XPSMPsmw&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=msk.fast-cone.com&sid=12#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%E2%80%A2%202
